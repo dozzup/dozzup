@@ -1,6 +1,6 @@
 - Hi, I’m @dozzup
 - I’m interested in computers and other tech stuff.
-- I’m currently learning web design.
+- I’m currently learning web development.
 - Reach me at dozzup#2199 on Discord or /u/dozzup on reddit.
 
 <!---
